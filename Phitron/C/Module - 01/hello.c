@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(){
-    float ekhon;
+    float number;
 
-    scanf("%f", &ekhon);
-    printf("%.14f", ekhon);
+    scanf("%f", &number);
+    printf("%.14f", number);
     return 0;
 }
