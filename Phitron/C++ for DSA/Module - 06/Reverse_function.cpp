@@ -24,8 +24,8 @@ int main()
     
     reverse(s.begin(), s.end());
 
-    cout << s << endl;
-stringstream
+    cout << s << endl; // এইভাবে রিভার্স করলে প্রত্তেক্টা অক্ষর শেসের অক্ষর থেকে রিভার্স করা সুরু করে কিন্তু
+                        // ওয়ার্ড বাই ওয়ার্ড রিভার্স করা জায়, সেটা korte hole stringstream(s) ai function ti use korte hobe;
 
     return 0;
 }

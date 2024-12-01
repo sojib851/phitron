@@ -11,7 +11,7 @@ int main()
     //     cout << s[i] << endl;
     // }
 
-    for (int c : s) // Range based for loop element niye kaj kore index check kore na,
+    for (char c : s) // Range based for loop element niye kaj kore index check kore na,
     {
         cout << c << endl;
     }
